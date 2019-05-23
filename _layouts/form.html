@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
+<body>
+  <style media="screen">
+    #form { display: none }
+  </style>
+  <div class="page-wrap">
+    {% include sidebar.html %}
+    <div class="main-content-wrap js-main-content" tabindex="0">
+      <div class="page-header">
+        <div class="main-content">
+          {% if site.aux_links != nil %}
+            <ul class="list-style-none text-small mt-md-1 mb-md-1 pb-4 pb-md-0 js-aux-nav aux-nav">
+              {% for link in site.aux_links %}
+                <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ link.last }}">{{ link.first }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+      <div class="main-content">
+        <div id="main-content" class="page-content" role="main">
+          <h2>Join the hackathon</h2>
+          <div id="consent">
+            <p>By clicking below you accept the Terms and Conditions Specified in the <a href="/rules">Rules Section</a> of this website.</p>
+            <button type="button" name="button" class="btn" onclick="toggleForm()">Accept</button>
+          </div>
+          <div id="form">
+            <!-- THis is coming form the Google Form send iframe code  Need to generate mine -->
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepgezJgSDtRhJ7qOF_TKTGD_x2akpLZDIPr0237uHE47NiXQ/viewform?embedded=true"
+            width="640"
+            height="500"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0">Loading...</iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    let formVisible = false;
+    const toggleForm = () => {
+      const form = document.getElementById('form');
+      const consent = document.getElementById('consent');
+      formVisible = !formVisible;
+      if (formVisible) {
+        form.style.display = 'block';
+        consent.style.display = 'none';
+      } else {
+        form.style.display = 'none';
+        consent.style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
