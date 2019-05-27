@@ -62,7 +62,7 @@ Participant further represents and warrants that he or she is the sole author an
 
 
 ## 6. Timing
-The Contest will commence at 10: CET on Monday May 27<sup>th</sup> 2019 when the Hackathon space on GitHub will be open for submission. The Contest will close at 23:59 CET on Monday June 10<sup>th</sup> 2019 (the “Closing Date”)
+The Contest will commence at 10:00 CET on Tuesday May 28<sup>th</sup> 2019 when the Hackathon space on GitHub will be open for submission. The Contest will close at 23:59 CET on Monday June 10<sup>th</sup> 2019 (the “Closing Date”)
 
 ## 7. Limitation
 All users may only participate in the Contest with one submission per track (i.e. you may make a maximum of two submissions in connection with the Contest with a maximum of one submission per track i.e. one submission for a product idea and one submission for a prototype/demo).
