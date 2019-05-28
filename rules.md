@@ -26,7 +26,7 @@ Winning a prize is contingent upon fulfilling all requirements set forth herein.
 In order to enroll you need to:
 -	Have a GitHub account
 -	Submit your GitHub account through the [join section](/join) 
--	Fork the public repository “hackathon” listed in the organization page on GitHub
+-	Fork the public [repository “hackathon”](https://github.com/givevoicetofootball/hackathon) listed in the [organization page on GitHub](https://github.com/givevoicetofootball)
 
  Your submission should be made through one GitHub account. The contribution of other people to your submission can be referenced in the README.md of the forked repository. Regardless of the number of contributors the winning submission (of each track) will be awarded with two (2) prize tickets. The use of any automated software (e.g. bots) is prohibited.
 
