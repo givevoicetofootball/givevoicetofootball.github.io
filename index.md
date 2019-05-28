@@ -12,7 +12,7 @@ Fédération Internationale de Football Association (“FIFA”) is calling all 
 
 ## Theme and Contribution
 Participate for the chance to win tickets for the FIFA Women’s World Cup France 2019™ final in Lyon on July 7th 2019 (subject to [the rules](/rules) of the hackathon). Please see below for more information and the rules for the hackathon.
-The virtual hackathon will be hosted on GitHub and will run from Tuesday May 28<sup>th</sup> 2019 at 10:00 CET to Monday June 10<sup>th</sup> 2019 at 23:59 CET.
+The virtual hackathon will be hosted on GitHub and will run from Tuesday May 28<sup>th</sup> 2019 at 9:00 CET to Monday June 10<sup>th</sup> 2019 at 23:59 CET.
 The hackathon will have two main tracks: product ideas and prototypes / demos (as detailed below).
 
 ## Product Ideas
@@ -36,5 +36,5 @@ The kinds of question that prototypes/demos and product ideas should address / e
 
 You can access FIFA historical data relating to past FIFA competitions through a set of endpoints. The description of the endpoints is available at the following URL: <https://givevoicetofootball.fifa.com/ApiFdcpHelp>. On the [API section](/api/) you can also see some examples of queries.
 
-Starting from Tuesday May 28<sup>th</sup> at 10:00 CET you can enroll and submit your product ideas or prototypes/demos following the instructions available at: https:// givevoicetofootball.github.io.
+Starting from Tuesday May 28<sup>th</sup> at 9:00 CET you can enroll and submit your product ideas or prototypes/demos following the instructions available at: https:// givevoicetofootball.github.io.
 For any inquiry and other questions you can [send an email](mailto:fifahackathon@fifa.org) to: fifahackathon@fifa.org
