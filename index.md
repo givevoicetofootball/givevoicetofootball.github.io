@@ -29,7 +29,7 @@ The submission should include:
 
 The kinds of question that prototypes/demos and product ideas should address / explore are:
 -	What kind of voice experience can be relevant to a football fan?
--	How can we leverage FIFA’s data (please see below for more information on such data) in the context of Virtual Assistants?
+-	How can we leverage FIFA’s data (please see [this section](/api/) for more information on such data) in the context of Virtual Assistants?
 -	What Alexa Skill or a Google Action around FIFA competitions should be developed.
 -	How publicly available data can be used for developing football relevant voice assistant skills or actions?
 -	What are the kinds of user experiences and product concepts that can be designed around virtual assistants and football?
